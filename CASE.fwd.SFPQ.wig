@@ -208,7 +208,7 @@ fixedStep  chrom=chr1  start=35000001  step=100 span=100
 -0
 -0
 -0
--fixedStep chrom=1 start=35020801 step=100 span=100
+fixedStep chrom=1 start=35020801 step=100 span=100
 -0
 -0
 -0
@@ -1233,7 +1233,7 @@ fixedStep  chrom=chr1  start=35000001  step=100 span=100
 -0
 -0
 -0
--fixedStep chrom=1 start=35123201 step=100 span=100
+fixedStep chrom=1 start=35123201 step=100 span=100
 -0
 -0
 -0
@@ -2258,7 +2258,7 @@ fixedStep  chrom=chr1  start=35000001  step=100 span=100
 -0
 -0
 -0
--fixedStep chrom=1 start=35225601 step=100 span=100
+fixedStep chrom=1 start=35225601 step=100 span=100
 -0
 -0
 -0
@@ -3283,7 +3283,7 @@ fixedStep  chrom=chr1  start=35000001  step=100 span=100
 -1.15994
 -1.10049
 -1.30604
--fixedStep chrom=1 start=35328001 step=100 span=100
+fixedStep chrom=1 start=35328001 step=100 span=100
 -1.17118
 -1.17561
 -1.38635
@@ -4308,7 +4308,7 @@ fixedStep  chrom=chr1  start=35000001  step=100 span=100
 -0.0521337
 -0.0430525
 -0.039263
--fixedStep chrom=1 start=35430401 step=100 span=100
+fixedStep chrom=1 start=35430401 step=100 span=100
 -0.0927697
 -0.0535298
 -0.0556061
@@ -5333,7 +5333,7 @@ fixedStep  chrom=chr1  start=35000001  step=100 span=100
 -0
 -0
 -0
--fixedStep chrom=1 start=35532801 step=100 span=100
+fixedStep chrom=1 start=35532801 step=100 span=100
 -0
 -0
 -0
@@ -6358,7 +6358,7 @@ fixedStep  chrom=chr1  start=35000001  step=100 span=100
 -0
 -0
 -0
--fixedStep chrom=1 start=35635201 step=100 span=100
+fixedStep chrom=1 start=35635201 step=100 span=100
 -0
 -0
 -0
@@ -7383,7 +7383,7 @@ fixedStep  chrom=chr1  start=35000001  step=100 span=100
 -0
 -0
 -0
--fixedStep chrom=1 start=35737601 step=100 span=100
+fixedStep chrom=1 start=35737601 step=100 span=100
 -0
 -0
 -0
@@ -8408,7 +8408,7 @@ fixedStep  chrom=chr1  start=35000001  step=100 span=100
 -2.18141
 -1.17051
 -0.551288
--fixedStep chrom=1 start=35840001 step=100 span=100
+fixedStep chrom=1 start=35840001 step=100 span=100
 -1.29849
 -1.51867
 -1.94531
@@ -9433,7 +9433,7 @@ fixedStep  chrom=chr1  start=35000001  step=100 span=100
 -0.651396
 -0.353792
 -0.496107
--fixedStep chrom=1 start=35942401 step=100 span=100
+fixedStep chrom=1 start=35942401 step=100 span=100
 -0.69208
 -0.354177
 -0.138903
