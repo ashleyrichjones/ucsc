@@ -1,4 +1,4 @@
-fixedStep chrom=1 start=35000001 step=100 span=100
+fixedStep chrom=chr1 start=35000001 step=100 span=100
 -0.529458
 -0.501375
 -0.548501
