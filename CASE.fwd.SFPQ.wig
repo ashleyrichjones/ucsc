@@ -1,4 +1,4 @@
-track type=wiggle_0 name=CASE.fwd.SFPQ 
+track type=wiggle_0 name=CASEfwdSFPQ 
 fixedStep  chrom=chr1  start=35000001  step=100 span=100
 -0
 -0.0231379
