@@ -1,4 +1,4 @@
-track type=wiggle_0 name=UntitledWig 
+track type=wiggle_0 name=CASE.rev.SFPQ
 fixedStep  chrom=chr1  start=35000001  step=100 span=100
 -0.365933
 -0.472906
