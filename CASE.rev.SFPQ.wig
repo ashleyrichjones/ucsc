@@ -1,5 +1,5 @@
 track type=wiggle_0 name=UntitledWig 
-fixedStep chrom=chr1 start=35000001 step=100 span=100
+fixedStep  chrom=chr1  start=35000001  step=100 span=100
 -0.365933
 -0.472906
 -0.830907
@@ -208,7 +208,7 @@ fixedStep chrom=chr1 start=35000001 step=100 span=100
 -0.0716303
 -0.308053
 -0.376843
-fixedStep chrom=1 start=35020801 step=100 span=100
+fixedStep chrom=chr1 start=35020801 step=100 span=100
 -0.254831
 -0.226455
 -0.248957
@@ -1233,7 +1233,7 @@ fixedStep chrom=1 start=35020801 step=100 span=100
 -0.0480415
 -0.0348725
 -0.0403346
-fixedStep chrom=1 start=35123201 step=100 span=100
+fixedStep chrom=chr1 start=35123201 step=100 span=100
 -0.022184
 -0
 -0.00645354
@@ -2258,7 +2258,7 @@ fixedStep chrom=1 start=35123201 step=100 span=100
 -0
 -0
 -0
-fixedStep chrom=1 start=35225601 step=100 span=100
+fixedStep chrom=chr1 start=35225601 step=100 span=100
 -0
 -0
 -0
@@ -3283,7 +3283,7 @@ fixedStep chrom=1 start=35225601 step=100 span=100
 -0
 -0
 -0
-fixedStep chrom=1 start=35328001 step=100 span=100
+fixedStep chrom=chr1 start=35328001 step=100 span=100
 -0.00349714
 -0
 -0
@@ -4308,7 +4308,7 @@ fixedStep chrom=1 start=35328001 step=100 span=100
 -0.225638
 -0.373334
 -0.814738
-fixedStep chrom=1 start=35430401 step=100 span=100
+fixedStep chrom=chr1 start=35430401 step=100 span=100
 -0.75382
 -0.646023
 -0.747367
@@ -5333,7 +5333,7 @@ fixedStep chrom=1 start=35430401 step=100 span=100
 -1.13106
 -1.34624
 -1.1582
-fixedStep chrom=1 start=35532801 step=100 span=100
+fixedStep chrom=chr1 start=35532801 step=100 span=100
 -1.09676
 -0.956025
 -1.12603
@@ -6358,7 +6358,7 @@ fixedStep chrom=1 start=35532801 step=100 span=100
 -0.779134
 -0.720908
 -0.604603
-fixedStep chrom=1 start=35635201 step=100 span=100
+fixedStep chrom=chr1 start=35635201 step=100 span=100
 -0.245479
 -0.458908
 -0.753618
@@ -7383,7 +7383,7 @@ fixedStep chrom=1 start=35635201 step=100 span=100
 -0.661564
 -0.246516
 -0.0120493
-fixedStep chrom=1 start=35737601 step=100 span=100
+fixedStep chrom=chr1 start=35737601 step=100 span=100
 -0.0143061
 -0.0256958
 -0.046868
@@ -8408,7 +8408,7 @@ fixedStep chrom=1 start=35737601 step=100 span=100
 -0
 -0
 -0.00234543
-fixedStep chrom=1 start=35840001 step=100 span=100
+fixedStep chrom=chr1 start=35840001 step=100 span=100
 -0
 -0
 -0
@@ -9433,7 +9433,7 @@ fixedStep chrom=1 start=35840001 step=100 span=100
 -0
 -0
 -0
-fixedStep chrom=1 start=35942401 step=100 span=100
+fixedStep chrom=chr1 start=35942401 step=100 span=100
 -0
 -0
 -0
