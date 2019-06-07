@@ -1,4 +1,4 @@
-track type=wiggle_0 name=CASErevSFPQ 
+track type=wiggle_0 name=CASErevSFPQ color=255,0,0 
 fixedStep chrom=chr1 start=35000001 step=100 span=100
 -15.6541
 -20.2596
